@@ -60,7 +60,7 @@ PAPERS = OrderedDict([
                  dict(key='wxll', name='童庆炳《文学理论教程》（第四版）',
                       pub='高等教育出版社', edition='2021 年专业目录标注「四版」',
                       disc='基础', sections=['文学理论']),
-             ], source_note=ANHUI_NOTE),
+             ], source_note=ANHUI_NOTE, ev_kind='转载：2021 年专业目录转载全文，非官网原件'),
         dict(paper='阅读与写作（809）', years='2007—2021（15 年）', pages='p15—p68',
              note='该科目官方表述为考查「阅读分析与文学写作的实际能力」，专业目录未列指定教材，'
                   '故本册不编造参考书；相关文言基础（句读、翻译、反切、活用）与《古代汉语》重合，'
@@ -71,7 +71,7 @@ PAPERS = OrderedDict([
                       note='参照范围：黄德宽《古代汉语》的文选、句读、翻译与古注知识，'
                            '以及文学鉴赏与命题写作的实际表达能力。',
                       disc=None, sections=['阅读与写作', '阅读与写作(基础卷)']),
-             ], source_note=ANHUI_NOTE),
+             ], source_note=ANHUI_NOTE, ev_kind='转载：同上（本科目官方未列指定教材）'),
     ]),
     ('黑龙江大学', [
         dict(paper='现代汉语（742）', years='2011—2014 合卷＋2015—2023＋2025—2026 回忆版',
@@ -87,7 +87,7 @@ PAPERS = OrderedDict([
                            '2026 年官方大纲已改为邵敬敏《现代汉语通论》第 3 版',
                       disc='现汉', sections=['现代汉语 绪论与语音', '现代汉语 文字与词汇', '现代汉语 语法与修辞',
                                        '现代汉语 补充(2020古理卷附段)']),
-             ], source_note=HLJU_NOTE),
+             ], source_note=HLJU_NOTE, ev_kind='官方：2026 年 742 大纲原件；2021 年大纲为权威转载'),
         dict(paper='古代汉语与语言学理论（842）', years='2011—2014 合卷＋2015—2023＋2024—2026 回忆版',
              pages='p4—p56',
              note='2011—2014 为「古代汉语与现代汉语语法修辞」合卷，2024—2026 为回忆版合卷，'
@@ -100,7 +100,7 @@ PAPERS = OrderedDict([
                  dict(key='hlj-yyll', name='《语言学纲要》（修订版），叶蜚声、徐通锵著，王洪君、李娟修订',
                       pub='北京大学出版社', edition='修订版；2026 年官方大纲仍为此本',
                       disc='语理', sections=['语言学理论']),
-             ], source_note=HLJU_NOTE),
+             ], source_note=HLJU_NOTE, ev_kind='官方：2026 年 842 大纲原件；2021 年大纲为权威转载'),
     ]),
     ('云南民族大学', [
         dict(paper='现代汉语（719）', years='2013—2025（11 年）', pages='p3—p28',
@@ -110,7 +110,7 @@ PAPERS = OrderedDict([
                       pub='高等教育出版社', edition='2017 年版；2025、2026 官方书目一致未变',
                       disc='现汉', sections=['现代汉语 绪论与语音', '现代汉语 文字与词汇', '现代汉语 语法与修辞',
                                        '现代汉语 修辞', '现代汉语 综合概念']),
-             ], source_note=YNU_NOTE),
+             ], source_note=YNU_NOTE, ev_kind='官方：2025、2026 年参考书目 PDF 原件'),
         dict(paper='语言学理论（815）', years='2011—2025（15 年）', pages='p1—p29',
              note='2026 年官方书目已把 815 改为《语言学纲要》2025 年版，属 2025 年之后的范围变动，'
                   '不能用来评价既有真题；本册真题止于 2025 年，按 2010 年版《语言学纲要》评价。',
@@ -120,7 +120,7 @@ PAPERS = OrderedDict([
                       disc='语理', sections=['语言学理论 语音词汇与语法', '语言学理论 语言本质与系统',
                                        '语言学理论 演变接触与文字', '语言学理论 语法与词义',
                                        '语言学理论 语言学知识']),
-             ], source_note=YNU_NOTE),
+             ], source_note=YNU_NOTE, ev_kind='官方：2025、2026 年参考书目 PDF 原件'),
     ]),
     ('西安工业大学', [
         dict(paper='语言综合（902／816）', years='2020—2025（6 年）', pages='p1—p50',
@@ -134,7 +134,7 @@ PAPERS = OrderedDict([
                  dict(key='xat-gdh', name='郭锡良《古代汉语》',
                       pub='商务印书馆', edition='2024 指定 2018 年本；2025、2026 为 1999 年修订本',
                       disc='语综', sections=['古代汉语 文字词义与句法', '古代汉语 阅读与诗律']),
-             ], source_note=XATU_NOTE),
+             ], source_note=XATU_NOTE, ev_kind='2024、2026 官方书目页；2025 权威转载'),
         dict(paper='文学评论写作（702）', years='2020—2026（7 年）', pages='p4—p60',
              note='2020—2026 三部分大题均有选项（第一大题古典诗与现代诗任选），'
                   '题型连续出现不等于某位作家或某首作品高频。',
@@ -142,7 +142,7 @@ PAPERS = OrderedDict([
                  dict(key='xat-wxll', name='童庆炳《文学理论教程》（第五版）',
                       pub='高等教育出版社', edition='2015 年版；2024、2025、2026 三处书目一致',
                       disc='评论', sections=['文学评论写作']),
-             ], source_note=XATU_NOTE),
+             ], source_note=XATU_NOTE, ev_kind='2024、2026 官方书目页；2025 权威转载'),
     ]),
 ])
 
@@ -276,7 +276,8 @@ if __name__ == '__main__':
                                   note=b.get('note'), topics=sel, local_max=len(sel)))
             ev_all = [e for b in books for t in b['topics'] for e in t['evidence']]
             out[school].append(dict(paper=spec['paper'], years=spec['years'], pages=spec['pages'],
-                                    note=spec['note'], source_note=spec['source_note'], books=books,
+                                    note=spec['note'], source_note=spec['source_note'],
+                                    ev_kind=spec.get('ev_kind'), books=books,
                                     stats=dict(topics=sum(len(b['topics']) for b in books),
                                                evidence=len(ev_all),
                                                recall=sum(1 for e in ev_all if e.get('recall')))))

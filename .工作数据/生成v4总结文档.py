@@ -93,8 +93,8 @@ for school in ORDER:
         for i, b in enumerate(paper['books'], 1):
             pub = '' if b['pub'] in ('—', '-', '') else f'（{b["pub"]}）'
             BOOK_ROWS.append([label if i == 1 else '', b['name'] + pub, str(b['local_max'])])
-        BOOK_ROWS.append(['', '证据级别：' + paper['source_note'].split('。')[0] + '。'
-                          + f'真题范围 {paper["years"]}', f'小计 {paper["stats"]["topics"]}'])
+        BOOK_ROWS.append(['', f'证据级别：{paper.get("ev_kind") or "见正文"}；'
+                              f'真题范围 {paper["years"]}', f'小计 {paper["stats"]["topics"]}'])
 BOOK_WIDTHS = [3.6, 10.6, 2.8]
 
 TPL_STATS_TEXT = ('v4 把考点册改为「一个 PDF 册 ＝ 一个考试科目」，正文按参考书分块，'
