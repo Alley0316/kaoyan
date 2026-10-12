@@ -6,7 +6,7 @@ from docx.shared import Cm,Pt,RGBColor
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.enum.text import WD_ALIGN_PARAGRAPH,WD_COLOR_INDEX
-W=Path(__file__).resolve().parent;O=Path('/home/zyf/考研/v2');D=json.loads((W/'复核考点.json').read_text())
+W=Path(__file__).resolve().parent;O=Path('/home/zyf/考研/v3');D=json.loads((W/'复核考点.json').read_text())
 notes={
  '安徽大学':'基础卷2005与2007题目高度重复，本册将这两个年份的基础卷证据合为一个来源组，仍保留两年出处。读写卷单独统计。原始资料含填答与解析，填空题仅摘要列出考点，避免将资料中的填答当作标准答案。现有资料止于2021年；2017等卷有分组或任选题，出现次数不等于必答次数。',
  '黑龙江大学':'2011至2014分卷方式与后期不同，本册按现汉、古汉、语理知识部分分别汇总，同一学科同年最多计一次。2025、2026合并回忆资料已拆为学科证据。2020卷末未注明年份的现汉附段，以及2019古理末尾疑似现汉题不计。2022缺卷，2024现汉缺卷。出处行保留当年试卷简称，便于回到原卷。',
