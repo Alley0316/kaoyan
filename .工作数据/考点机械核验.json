@@ -1,0 +1,34 @@
+{
+  "安徽大学": {
+    "pages": 13,
+    "repeat": 79,
+    "single": 18,
+    "evidence": 360,
+    "docx_pdf_text_match": true,
+    "visual_review": "all_pages_passed"
+  },
+  "黑龙江大学": {
+    "pages": 13,
+    "repeat": 82,
+    "single": 11,
+    "evidence": 422,
+    "docx_pdf_text_match": true,
+    "visual_review": "all_pages_passed"
+  },
+  "云南民族大学": {
+    "pages": 11,
+    "repeat": 63,
+    "single": 25,
+    "evidence": 295,
+    "docx_pdf_text_match": true,
+    "visual_review": "all_pages_passed"
+  },
+  "西安工业大学": {
+    "pages": 5,
+    "repeat": 25,
+    "single": 8,
+    "evidence": 150,
+    "docx_pdf_text_match": true,
+    "visual_review": "all_pages_passed"
+  }
+}

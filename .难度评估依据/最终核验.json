@@ -1,0 +1,12 @@
+{
+  "pages": 7,
+  "representative_questions": 22,
+  "all_docx_text_and_cells_in_pdf": true,
+  "all_source_links_visible": true,
+  "page_bounds_checked": true,
+  "all_final_pages_visually_reviewed": true,
+  "sha256": {
+    "四校真题相对参考书目难度评估.docx": "f19acaa81b8cb3195bd0dfad714ae2e68b589180c4cd8bfe872d02e79fc36e28",
+    "四校真题相对参考书目难度评估.pdf": "eed0def4c88d912159946ce46e64ef781dcf07dfc5d068278ec3ddb9956073d2"
+  }
+}

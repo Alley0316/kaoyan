@@ -1,0 +1,610 @@
+{
+  "云南民族大学": [
+    {
+      "year": 2011,
+      "subject": "语言学理论",
+      "start": 1,
+      "end": 1
+    },
+    {
+      "year": 2012,
+      "subject": "语言学理论",
+      "start": 2,
+      "end": 2
+    },
+    {
+      "year": 2013,
+      "subject": "现代汉语",
+      "start": 3,
+      "end": 3
+    },
+    {
+      "year": 2013,
+      "subject": "语言学理论",
+      "start": 4,
+      "end": 4
+    },
+    {
+      "year": 2014,
+      "subject": "现代汉语",
+      "start": 5,
+      "end": 5
+    },
+    {
+      "year": 2014,
+      "subject": "语言学理论",
+      "start": 6,
+      "end": 6
+    },
+    {
+      "year": 2015,
+      "subject": "语言学理论",
+      "start": 7,
+      "end": 7
+    },
+    {
+      "year": 2016,
+      "subject": "现代汉语",
+      "start": 8,
+      "end": 8
+    },
+    {
+      "year": 2016,
+      "subject": "语言学理论",
+      "start": 9,
+      "end": 9
+    },
+    {
+      "year": 2017,
+      "subject": "现代汉语",
+      "start": 10,
+      "end": 10
+    },
+    {
+      "year": 2017,
+      "subject": "语言学理论",
+      "start": 11,
+      "end": 11
+    },
+    {
+      "year": 2018,
+      "subject": "现代汉语",
+      "start": 12,
+      "end": 13
+    },
+    {
+      "year": 2018,
+      "subject": "语言学理论",
+      "start": 14,
+      "end": 14
+    },
+    {
+      "year": 2019,
+      "subject": "语言学理论",
+      "start": 15,
+      "end": 15
+    },
+    {
+      "year": 2020,
+      "subject": "现代汉语",
+      "start": 16,
+      "end": 17
+    },
+    {
+      "year": 2020,
+      "subject": "语言学理论",
+      "start": 18,
+      "end": 18
+    },
+    {
+      "year": 2021,
+      "subject": "现代汉语",
+      "start": 19,
+      "end": 19
+    },
+    {
+      "year": 2021,
+      "subject": "语言学理论",
+      "start": 20,
+      "end": 20
+    },
+    {
+      "year": 2022,
+      "subject": "现代汉语",
+      "start": 21,
+      "end": 21
+    },
+    {
+      "year": 2022,
+      "subject": "语言学理论",
+      "start": 22,
+      "end": 22
+    },
+    {
+      "year": 2023,
+      "subject": "现代汉语",
+      "start": 23,
+      "end": 23
+    },
+    {
+      "year": 2023,
+      "subject": "语言学理论",
+      "start": 24,
+      "end": 24
+    },
+    {
+      "year": 2024,
+      "subject": "现代汉语",
+      "start": 25,
+      "end": 25
+    },
+    {
+      "year": 2024,
+      "subject": "语言学理论",
+      "start": 26,
+      "end": 26
+    },
+    {
+      "year": 2025,
+      "subject": "现代汉语",
+      "start": 27,
+      "end": 28
+    },
+    {
+      "year": 2025,
+      "subject": "语言学理论",
+      "start": 29,
+      "end": 29
+    }
+  ],
+  "西安工业大学": [
+    {
+      "year": 2020,
+      "subject": "语言综合",
+      "start": 1,
+      "end": 3
+    },
+    {
+      "year": 2020,
+      "subject": "文学评论写作",
+      "start": 4,
+      "end": 8
+    },
+    {
+      "year": 2021,
+      "subject": "语言综合",
+      "start": 9,
+      "end": 12
+    },
+    {
+      "year": 2021,
+      "subject": "文学评论写作",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "year": 2022,
+      "subject": "语言综合",
+      "start": 19,
+      "end": 22
+    },
+    {
+      "year": 2022,
+      "subject": "文学评论写作",
+      "start": 23,
+      "end": 27
+    },
+    {
+      "year": 2023,
+      "subject": "语言综合",
+      "start": 28,
+      "end": 30
+    },
+    {
+      "year": 2023,
+      "subject": "文学评论写作",
+      "start": 31,
+      "end": 35
+    },
+    {
+      "year": 2024,
+      "subject": "语言综合",
+      "start": 36,
+      "end": 40
+    },
+    {
+      "year": 2024,
+      "subject": "文学评论写作",
+      "start": 41,
+      "end": 46
+    },
+    {
+      "year": 2025,
+      "subject": "语言综合",
+      "start": 47,
+      "end": 50
+    },
+    {
+      "year": 2025,
+      "subject": "文学评论写作",
+      "start": 51,
+      "end": 54
+    },
+    {
+      "year": 2026,
+      "subject": "文学评论写作",
+      "start": 55,
+      "end": 60
+    }
+  ],
+  "安徽大学": [
+    {
+      "year": 2004,
+      "subject": "语言文学基础",
+      "start": 1,
+      "end": 5
+    },
+    {
+      "year": 2005,
+      "subject": "语言文学基础",
+      "start": 6,
+      "end": 8
+    },
+    {
+      "year": 2006,
+      "subject": "语言文学基础",
+      "start": 9,
+      "end": 11
+    },
+    {
+      "year": 2007,
+      "subject": "语言文学基础",
+      "start": 12,
+      "end": 14
+    },
+    {
+      "year": 2007,
+      "subject": "阅读与写作",
+      "start": 15,
+      "end": 16
+    },
+    {
+      "year": 2008,
+      "subject": "语言文学基础",
+      "start": 17,
+      "end": 20
+    },
+    {
+      "year": 2008,
+      "subject": "阅读与写作",
+      "start": 21,
+      "end": 21
+    },
+    {
+      "year": 2009,
+      "subject": "语言文学基础",
+      "start": 22,
+      "end": 26
+    },
+    {
+      "year": 2009,
+      "subject": "阅读与写作",
+      "start": 27,
+      "end": 28
+    },
+    {
+      "year": 2010,
+      "subject": "语言文学基础",
+      "start": 29,
+      "end": 31
+    },
+    {
+      "year": 2010,
+      "subject": "阅读与写作",
+      "start": 32,
+      "end": 33
+    },
+    {
+      "year": 2011,
+      "subject": "语言文学基础",
+      "start": 34,
+      "end": 36
+    },
+    {
+      "year": 2011,
+      "subject": "阅读与写作",
+      "start": 37,
+      "end": 37
+    },
+    {
+      "year": 2012,
+      "subject": "语言文学基础",
+      "start": 38,
+      "end": 40
+    },
+    {
+      "year": 2012,
+      "subject": "阅读与写作",
+      "start": 41,
+      "end": 41
+    },
+    {
+      "year": 2013,
+      "subject": "语言文学基础",
+      "start": 42,
+      "end": 45
+    },
+    {
+      "year": 2013,
+      "subject": "阅读与写作",
+      "start": 46,
+      "end": 47
+    },
+    {
+      "year": 2014,
+      "subject": "语言文学基础",
+      "start": 48,
+      "end": 50
+    },
+    {
+      "year": 2014,
+      "subject": "阅读与写作",
+      "start": 51,
+      "end": 51
+    },
+    {
+      "year": 2015,
+      "subject": "语言文学基础",
+      "start": 52,
+      "end": 53
+    },
+    {
+      "year": 2015,
+      "subject": "阅读与写作",
+      "start": 54,
+      "end": 54
+    },
+    {
+      "year": 2016,
+      "subject": "语言文学基础",
+      "start": 55,
+      "end": 57
+    },
+    {
+      "year": 2016,
+      "subject": "阅读与写作",
+      "start": 58,
+      "end": 58
+    },
+    {
+      "year": 2017,
+      "subject": "语言文学基础",
+      "start": 59,
+      "end": 59
+    },
+    {
+      "year": 2017,
+      "subject": "阅读与写作",
+      "start": 60,
+      "end": 60
+    },
+    {
+      "year": 2018,
+      "subject": "语言文学基础",
+      "start": 61,
+      "end": 61
+    },
+    {
+      "year": 2018,
+      "subject": "阅读与写作",
+      "start": 62,
+      "end": 62
+    },
+    {
+      "year": 2019,
+      "subject": "语言文学基础",
+      "start": 63,
+      "end": 63
+    },
+    {
+      "year": 2019,
+      "subject": "阅读与写作",
+      "start": 64,
+      "end": 64
+    },
+    {
+      "year": 2020,
+      "subject": "语言文学基础",
+      "start": 65,
+      "end": 65
+    },
+    {
+      "year": 2020,
+      "subject": "阅读与写作",
+      "start": 66,
+      "end": 66
+    },
+    {
+      "year": 2021,
+      "subject": "语言文学基础",
+      "start": 67,
+      "end": 67
+    },
+    {
+      "year": 2021,
+      "subject": "阅读与写作",
+      "start": 68,
+      "end": 68
+    }
+  ],
+  "黑龙江大学": [
+    {
+      "year": 2010,
+      "subject": "语言学理论",
+      "start": 1,
+      "end": 1
+    },
+    {
+      "year": 2011,
+      "subject": "语言学理论与现代汉语语音文字词汇",
+      "start": 2,
+      "end": 3
+    },
+    {
+      "year": 2011,
+      "subject": "古代汉语与现代汉语语法修辞",
+      "start": 4,
+      "end": 5
+    },
+    {
+      "year": 2012,
+      "subject": "语言学理论与现代汉语语音文字词汇",
+      "start": 6,
+      "end": 7
+    },
+    {
+      "year": 2012,
+      "subject": "古代汉语与现代汉语语法修辞",
+      "start": 8,
+      "end": 10
+    },
+    {
+      "year": 2013,
+      "subject": "语言学理论与现代汉语语音文字词汇",
+      "start": 11,
+      "end": 12
+    },
+    {
+      "year": 2013,
+      "subject": "古代汉语与现代汉语语法修辞",
+      "start": 13,
+      "end": 14
+    },
+    {
+      "year": 2014,
+      "subject": "语言学理论与现代汉语语音文字词汇",
+      "start": 15,
+      "end": 16
+    },
+    {
+      "year": 2014,
+      "subject": "古代汉语与现代汉语语法修辞",
+      "start": 17,
+      "end": 18
+    },
+    {
+      "year": 2015,
+      "subject": "现代汉语",
+      "start": 19,
+      "end": 20
+    },
+    {
+      "year": 2015,
+      "subject": "古代汉语与语言学理论",
+      "start": 21,
+      "end": 22
+    },
+    {
+      "year": 2016,
+      "subject": "现代汉语",
+      "start": 23,
+      "end": 24
+    },
+    {
+      "year": 2016,
+      "subject": "古代汉语与语言学理论",
+      "start": 25,
+      "end": 26
+    },
+    {
+      "year": 2017,
+      "subject": "现代汉语",
+      "start": 27,
+      "end": 28
+    },
+    {
+      "year": 2017,
+      "subject": "古代汉语与语言学理论",
+      "start": 29,
+      "end": 30
+    },
+    {
+      "year": 2018,
+      "subject": "现代汉语",
+      "start": 31,
+      "end": 32
+    },
+    {
+      "year": 2018,
+      "subject": "古代汉语与语言学理论",
+      "start": 33,
+      "end": 34
+    },
+    {
+      "year": 2019,
+      "subject": "现代汉语",
+      "start": 35,
+      "end": 36
+    },
+    {
+      "year": 2019,
+      "subject": "古代汉语与语言学理论",
+      "start": 37,
+      "end": 38
+    },
+    {
+      "year": 2020,
+      "subject": "现代汉语",
+      "start": 39,
+      "end": 40
+    },
+    {
+      "year": 2020,
+      "subject": "古代汉语与语言学理论",
+      "start": 41,
+      "end": 42
+    },
+    {
+      "year": 2021,
+      "subject": "现代汉语",
+      "start": 43,
+      "end": 45
+    },
+    {
+      "year": 2021,
+      "subject": "古代汉语与语言学理论",
+      "start": 46,
+      "end": 47
+    },
+    {
+      "year": 2023,
+      "subject": "现代汉语",
+      "start": 48,
+      "end": 49
+    },
+    {
+      "year": 2023,
+      "subject": "古代汉语与语言学理论",
+      "start": 50,
+      "end": 51
+    },
+    {
+      "year": 2024,
+      "subject": "古代汉语与语言学理论 回忆版",
+      "start": 52,
+      "end": 52
+    },
+    {
+      "year": 2025,
+      "subject": "现代汉语和古代汉语与语言学理论 回忆版",
+      "start": 53,
+      "end": 54
+    },
+    {
+      "year": 2026,
+      "subject": "现代汉语和古代汉语与语言学理论 回忆版",
+      "start": 55,
+      "end": 56
+    }
+  ]
+}

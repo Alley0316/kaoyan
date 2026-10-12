@@ -1,0 +1,46 @@
+{
+  "安徽大学": {
+    "topics": 69,
+    "pages": 10,
+    "docx_text_preserved_in_pdf": true,
+    "a4_bounds_check": true,
+    "sha256": {
+      "安徽大学_高频考点.docx": "9ac40b6f9dd752085420bc03af92fac9ccd96124321b25f1126ebc2f7e2aa64f",
+      "安徽大学_高频考点.pdf": "bf87529f7954df924829ffb18daf6366e64f661c75080585bab6e2ff9944d410"
+    },
+    "all_final_pages_visually_reviewed": true
+  },
+  "黑龙江大学": {
+    "topics": 60,
+    "pages": 8,
+    "docx_text_preserved_in_pdf": true,
+    "a4_bounds_check": true,
+    "sha256": {
+      "黑龙江大学_高频考点.docx": "135395acd5d7cca96c73f40a268507e4a6d8fbfd0dcf29d15a35c751ef47f86a",
+      "黑龙江大学_高频考点.pdf": "078c62c03974116f47cd0b42c910482e11afcf19a5b6a1858bb1f0672c3b403d"
+    },
+    "all_final_pages_visually_reviewed": true
+  },
+  "云南民族大学": {
+    "topics": 41,
+    "pages": 6,
+    "docx_text_preserved_in_pdf": true,
+    "a4_bounds_check": true,
+    "sha256": {
+      "云南民族大学_高频考点.docx": "f8c8f938fc3916bc10d88d151a0b59410665d5b50f2760c7f2b05382cfbc9f60",
+      "云南民族大学_高频考点.pdf": "7b46f4728e06cb131c7239a4c22099b8329bf8be93220746627436f16cc652ea"
+    },
+    "all_final_pages_visually_reviewed": true
+  },
+  "西安工业大学": {
+    "topics": 24,
+    "pages": 4,
+    "docx_text_preserved_in_pdf": true,
+    "a4_bounds_check": true,
+    "sha256": {
+      "西安工业大学_高频考点.docx": "8054ece4d4d5cc740e18c1aca1deb860b6b9afc1d55223188efec14993e1484f",
+      "西安工业大学_高频考点.pdf": "5fda2ef6bba0086a2e828b4a04062c04880698cfb2bd77574f25543984dddbc7"
+    },
+    "all_final_pages_visually_reviewed": true
+  }
+}
