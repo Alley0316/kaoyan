@@ -1,0 +1,207 @@
+[
+ {
+  "file": "安徽大学_高频考点_v5.docx",
+  "school": "安徽大学",
+  "segments": [
+   {
+    "key": "ah-jc-none",
+    "label": "语言文学基础（2004—2011）",
+    "years": "2004—2011",
+    "topics": 92,
+    "evidence": 225,
+    "recall": 0,
+    "books": [
+     "本段未查到官方指定参考书",
+     "袁行霈《中国文学史》（第三版）",
+     "丁帆《中国新文学史》",
+     "童庆炳《文学理论教程》（第四版）"
+    ]
+   },
+   {
+    "key": "ah-jc-605",
+    "label": "语言文学基础（605）",
+    "years": "2012—2016",
+    "topics": 52,
+    "evidence": 81,
+    "recall": 0,
+    "books": [
+     "胡裕树主编《现代汉语》",
+     "王力主编《古代汉语》",
+     "袁行霈《中国文学史》（第三版）",
+     "丁帆《中国新文学史》",
+     "童庆炳《文学理论教程》（第四版）"
+    ]
+   },
+   {
+    "key": "ah-jc-615",
+    "label": "语言文学基础（615）",
+    "years": "2017—2018",
+    "topics": 32,
+    "evidence": 33,
+    "recall": 23,
+    "books": [
+     "黄伯荣、廖序东《现代汉语》（增订五版）",
+     "王力主编《古代汉语》",
+     "袁行霈《中国文学史》（第三版）",
+     "丁帆《中国新文学史》",
+     "童庆炳《文学理论教程》（第四版）"
+    ]
+   },
+   {
+    "key": "ah-jc-616",
+    "label": "语言文学基础（616）",
+    "years": "2019—2021",
+    "topics": 55,
+    "evidence": 65,
+    "recall": 53,
+    "books": [
+     "黄伯荣、廖序东《现代汉语》（增订五版）",
+     "黄伯荣、廖序东《现代汉语》（增订六版）",
+     "黄德宽主编《古代汉语》",
+     "袁行霈《中国文学史》（第三版）",
+     "丁帆《中国新文学史》",
+     "童庆炳《文学理论教程》（第四版）"
+    ]
+   },
+   {
+    "key": "ah-ydxz",
+    "label": "阅读与写作（807／808／809）",
+    "years": "2004—2021",
+    "topics": 8,
+    "evidence": 50,
+    "recall": 10,
+    "books": [
+     "本段无指定参考书：阅读与写作（实际能力考查）"
+    ]
+   }
+  ],
+  "unique_topics": 97,
+  "instances": 239,
+  "evidence": 454,
+  "unique_evidence": 320,
+  "recall": 86
+ },
+ {
+  "file": "黑龙江大学_高频考点_v5.docx",
+  "school": "黑龙江大学",
+  "segments": [
+   {
+    "key": "hlj-xdh",
+    "label": "现代汉语（742）",
+    "years": "2011—2026",
+    "topics": 51,
+    "evidence": 239,
+    "recall": 23,
+    "books": [
+     "黄伯荣、廖序东《现代汉语》（增订第五版）"
+    ]
+   },
+   {
+    "key": "hlj-gdh",
+    "label": "古代汉语与语言学理论（842）·古代汉语部分",
+    "years": "2011—2026",
+    "topics": 19,
+    "evidence": 85,
+    "recall": 8,
+    "books": [
+     "王力主编《古代漢語》（一、二册）"
+    ]
+   },
+   {
+    "key": "hlj-yyll",
+    "label": "古代汉语与语言学理论（842）·语言学理论部分",
+    "years": "2010—2026",
+    "topics": 34,
+    "evidence": 109,
+    "recall": 9,
+    "books": [
+     "《语言学纲要》（修订版），叶蜚声、徐通锵著，王洪君、李娟修订"
+    ]
+   }
+  ],
+  "unique_topics": 104,
+  "instances": 104,
+  "evidence": 433,
+  "unique_evidence": 400,
+  "recall": 40
+ },
+ {
+  "file": "云南民族大学_高频考点_v5.docx",
+  "school": "云南民族大学",
+  "segments": [
+   {
+    "key": "yn-xdh",
+    "label": "现代汉语（719）",
+    "years": "2013—2025",
+    "topics": 46,
+    "evidence": 150,
+    "recall": 27,
+    "books": [
+     "黄伯荣、廖序东《现代汉语》（增订第六版）上、下册"
+    ]
+   },
+   {
+    "key": "yn-yyll",
+    "label": "语言学理论（815）",
+    "years": "2011—2025",
+    "topics": 42,
+    "evidence": 143,
+    "recall": 26,
+    "books": [
+     "《语言学纲要》（修订本），叶蜚声、徐通锵著，王洪君、李娟修订"
+    ]
+   }
+  ],
+  "unique_topics": 88,
+  "instances": 88,
+  "evidence": 293,
+  "unique_evidence": 243,
+  "recall": 53
+ },
+ {
+  "file": "西安工业大学_高频考点_v5.docx",
+  "school": "西安工业大学",
+  "segments": [
+   {
+    "key": "xat-902",
+    "label": "语言综合（902）",
+    "years": "2020—2024",
+    "topics": 30,
+    "evidence": 108,
+    "recall": 0,
+    "books": [
+     "黄伯荣、李炜《现代汉语》（第二版）",
+     "郭锡良《古代汉语》"
+    ]
+   },
+   {
+    "key": "xat-816",
+    "label": "语言综合（816）",
+    "years": "2025—2025",
+    "topics": 16,
+    "evidence": 21,
+    "recall": 0,
+    "books": [
+     "黄伯荣、李炜《现代汉语》（第二版）",
+     "郭锡良《古代汉语》"
+    ]
+   },
+   {
+    "key": "xat-702",
+    "label": "文学评论写作（702）",
+    "years": "2020—2026",
+    "topics": 3,
+    "evidence": 21,
+    "recall": 0,
+    "books": [
+     "童庆炳《文学理论教程》（第五版）"
+    ]
+   }
+  ],
+  "unique_topics": 33,
+  "instances": 49,
+  "evidence": 150,
+  "unique_evidence": 146,
+  "recall": 0
+ }
+]
